@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "textual-dataviz",
+  "description": "ASCII/Unicode text-based data visualization for Claude Code.",
+  "metadata": {
+    "description": "ASCII/Unicode text-based data visualization for Claude Code."
+  },
+  "owner": {
+    "name": "3062-in-zamud",
+    "email": "https://github.com/3062-in-zamud"
+  },
+  "plugins": [
+    {
+      "name": "textual-dataviz",
+      "description": "8 types of text-based visualizations for terminal output.",
+      "version": "1.0.0",
+      "author": { "name": "3062-in-zamud" },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/3062-in-zamud/textual-dataviz"
+    }
+  ]
+}

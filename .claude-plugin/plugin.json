@@ -1,0 +1,13 @@
+{
+  "name": "textual-dataviz",
+  "description": "ASCII/Unicode text-based data visualization skill for Claude Code. 8 chart types: bar, trend, heatmap, tree, table, summary, status, flow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "3062-in-zamud",
+    "url": "https://github.com/3062-in-zamud"
+  },
+  "homepage": "https://github.com/3062-in-zamud/textual-dataviz",
+  "repository": "https://github.com/3062-in-zamud/textual-dataviz",
+  "license": "MIT",
+  "keywords": ["visualize", "dataviz", "chart", "ascii", "terminal", "unicode"]
+}
